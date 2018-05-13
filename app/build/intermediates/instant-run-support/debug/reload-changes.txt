@@ -1,0 +1,15 @@
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/qina/nuannuan/R$styleable$override.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/qina/nuannuan/WeatherAdapter$override.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/qina/nuannuan/R$mipmap$override.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/qina/nuannuan/R$drawable$override.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/qina/nuannuan/WeatherActivity$Weather_Search$override.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/qina/nuannuan/R$style$override.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/qina/nuannuan/R$layout$override.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/qina/nuannuan/R$integer$override.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/qina/nuannuan/R$menu$override.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/qina/nuannuan/R$id$override.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/qina/nuannuan/R$string$override.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$drawable$override.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/qina/nuannuan/WeatherActivity$override.class
+CHANGED,/home/qina/文档/nuannuan/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$drawable$override.class

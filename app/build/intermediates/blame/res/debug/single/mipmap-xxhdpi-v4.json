@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/weijia/AndroidStudioProjects/nuannuan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/weijia/AndroidStudioProjects/nuannuan/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/qina/文档/nuannuan/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/qina/文档/nuannuan/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
